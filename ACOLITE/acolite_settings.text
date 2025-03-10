@@ -1,0 +1,16 @@
+aerosol_correction = dark_spectrum
+dsf_aot_estimate = tiled
+dsf_residual_glint_correction = True
+l2w_parameters = Rrs_*,chl_oc3
+s2_target_res = 10
+l2w_mask_threshold = 0.05
+l2w_mask_negative_rhow = True
+rgb_rhot = False
+rgb_rhos = False
+map_l2w = False
+l2r_export_geotiff = True
+l2w_export_geotiff = True
+l1r_delete_netcdf = True
+l2r_delete_netcdf = False
+l2w_delete_netcdf = False
+verbosity = 2
